@@ -1,0 +1,4 @@
+git clone <url>
+git add filename
+git commit filename -m "here is message"
+git commit -am "I am adding all changes"
