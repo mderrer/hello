@@ -2,3 +2,5 @@ git clone <url>
 git add filename
 git commit filename -m "here is message"
 git commit -am "I am adding all changes"
+git push #this adds my local commit to the repo. For when local is ahead of github
+git pull # pull the recent changes in githib down to my machine
